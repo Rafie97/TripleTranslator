@@ -5,7 +5,7 @@ function HomePage() {
     console.log("English");
 
     const data = {
-      key: "pdct.1.1.20210803T222519Z.2c2222712300b77c.0eb3b64602f190ac7fd254101e0bdef3bb509c1c",
+      key: "",
       ui: "es",
       text: "yes",
       lang: "en",
